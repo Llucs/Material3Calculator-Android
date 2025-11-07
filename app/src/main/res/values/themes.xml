@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.Material3Calculator" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
